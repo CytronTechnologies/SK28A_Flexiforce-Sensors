@@ -1,0 +1,22 @@
+_adc_off: CODE, 386 0 4
+_LCD_clear: CODE, 394 0 7
+_adc_initialize: CODE, 439 0 18
+_LCD_goto: CODE, 457 0 23
+___ftpack: CODE, 758 0 123
+_LED_Blinking: CODE, 1176 0 164
+_main: CODE, 1744 0 304
+___lwtoft: CODE, 504 0 27
+_LCD_4bitsend: CODE, 1016 0 160
+___lwdiv: CODE, 680 0 78
+_adc_on: CODE, 390 0 4
+_LCD_command: CODE, 417 0 11
+_ui_adc_read: CODE, 564 0 48
+_LCD_senddata: CODE, 428 0 11
+___lwmod: CODE, 612 0 68
+_LCD_putstr: CODE, 531 0 33
+_LCD_putchar: CODE, 401 0 8
+___ftmul: CODE, 1506 0 238
+_initialize: CODE, 480 0 24
+_LCD_initialize: CODE, 881 0 135
+___fttol: CODE, 1340 0 166
+Total: 1654
